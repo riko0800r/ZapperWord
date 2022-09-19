@@ -1,10 +1,11 @@
+package com.rikos.Zaperwords;
+
 import android.app.Activity;
 import android.os.Bundle;
 
-import com.rikos.Zapperwords.R;
+import com.rikos.Zaperwords.R;
 
-
-public class ksks extends Activity {
+public class MainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
