@@ -1,7 +1,7 @@
 import android.app.Activity;
 import android.os.Bundle;
 
-import com.rikos.Zapperwords;
+import com.rikos.Zapperwords.R;
 
 
 public class ksks extends Activity {
